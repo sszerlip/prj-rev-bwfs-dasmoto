@@ -1,0 +1,31 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("/Users/sszerlip/Desktop/DEV_PROJECTS/Dasmoto's Arts and Crafts/resources/img/pattern.jpg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frame {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
